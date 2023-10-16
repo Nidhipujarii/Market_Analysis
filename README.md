@@ -61,7 +61,8 @@ Approximately 40.20% of respondents reported encountering energy drink advertise
 # Brand Penetration
 ### 1. What do people think about our brand? (overall rating)
 The overall brand rating for CodeX energy drink is approximately 3.10 out of 5. This suggests that, on average, respondents have a Moderately positive perception of our brand. However, there is room for improvement to enhance the brand’s image and reputation further.
-![Picture14](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/a26864d0-c2d0-47c9-9dea-dd8b5e375366)
+
+![Picture16](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/7c353aa7-9fce-49cd-971b-7fd8fad4edf6)
 
 # Purchase Behavior
 ### 1. What are the typical consumption situations for energy drinks among respondents?
@@ -87,10 +88,14 @@ A substantial number of respondents consider a price range of 50–99 and 100–
 # Product Development
 ### 1. Which area of business should we focus more on our product development?
 (Branding/taste/availability)
-> Brand reputation emerged as a prominent factor influencing consumer choices, with 259 respondents citing it as a reason for choosing CodeX.
-> A significant number of respondents (195 out of 980) indicated that they chose CodeX due to its availability.
-> To enhance product appeal and competitiveness, investing in taste improvement should be a top priority.
+ Brand reputation emerged as a prominent factor influencing consumer choices, with 259 respondents citing it as a reason for choosing CodeX.
+ 
+ A significant number of respondents (195 out of 980) indicated that they chose CodeX due to its availability.
+ 
+ To enhance product appeal and competitiveness, investing in taste improvement should be a top priority.
+
 ![Picture27](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/56d90ef0-12c9-485b-965c-03adcb965672)
+
 ![Picture28](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/f645c2db-2d9e-445f-a78d-281ef4d8e2e0)
 
 # Recommendations For CodeX
