@@ -5,7 +5,16 @@ CodeX is a German beverage company(imaginary) that is aiming to make its mark in
 Just a few months ago, they boldly introduced their signature drink to ten vibrant Indian cities. And to know their customers better they conducted survey and they got response from 10k customers. The survey focused on inquiries related to consumer behavior, encompassing topics such as purchasing patterns, opinions on energy drinks in the market, pricing, packaging, and more.
 
 Now my role as a marketing analyst is to analyze survey results and provide insights to marketing team.
+# Dashboard Overview
+![Screenshot (50)](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/8a9f7fc9-3b11-43d8-b18b-64e0dc22fe00)
+![Screenshot (51)](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/80d06180-3918-41c7-aad7-64a9b1ae5540)
+![Screenshot (52)](https://github.com/Nidhipujarii/Market-Analysis/assets/107934279/63264c36-ef12-4901-8641-b9b6b33e5f4e)
+# Live Interactive Dashboard Link
+https://app.powerbi.com/groups/me/reports/9648af8c-9c31-4126-99bd-2783667d6974?ctid=fd23d73e-7c5c-4e14-a680-5c91d187b680&pbi_source=linkShare
+# Video Presentation Of The Project
+https://drive.google.com/file/d/1ZXaAHjOyho95bQowSpLq706q6-kEP8Ta/view?usp=share_link
 
+# Project
 # Problem Statements & Insights
 # Demographic Insights
 ### 1. Who prefers energy drink more?
