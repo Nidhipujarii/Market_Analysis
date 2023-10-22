@@ -12,7 +12,7 @@ Now my role as a marketing analyst is to analyze survey results and provide insi
 # Live Interactive Dashboard Link
 https://app.powerbi.com/groups/me/reports/9648af8c-9c31-4126-99bd-2783667d6974?ctid=fd23d73e-7c5c-4e14-a680-5c91d187b680&pbi_source=linkShare
 # Video Presentation Of The Project
-https://drive.google.com/file/d/1ZXaAHjOyho95bQowSpLq706q6-kEP8Ta/view?usp=share_link
+https://www.linkedin.com/posts/nidhi-pujari-b74843216_hello-everyone-im-delighted-to-present-activity-7121734319408119808-IfwP?utm_source=share&utm_medium=member_desktop
 
 # Project
 # Problem Statements & Insights
