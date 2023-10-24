@@ -1,5 +1,6 @@
 # Marketing Insights For Food And Beverage Industry
-About The Project
+About The Project:
+
 CodeX is a German beverage company(imaginary) that is aiming to make its mark in the Indian market.
 
 Just a few months ago, they boldly introduced their signature drink to ten vibrant Indian cities. And to know their customers better they conducted survey and they got response from 10k customers. The survey focused on inquiries related to consumer behavior, encompassing topics such as purchasing patterns, opinions on energy drinks in the market, pricing, packaging, and more.
